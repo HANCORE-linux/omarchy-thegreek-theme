@@ -14,19 +14,23 @@
     --color01: #db0030;
     --color02: #2e3125;
     --color03: #51573b;
-    --color04: #db0030;
-    --color05: #43432b;
+    --color04: #47472b;
+    --color05: #363a34;
     --color06: #363a34;
     --color07: #272727;
     --color08: #494a42;
     --color09: #ef597a;
-    --color10: #EB7655;
-    --color11: #a2a87c;
-    --color12: #e88b5f;
-    --color13: #a8a67b;
+    --color10: #db0030;
+    --color11: #383835;
+    --color12: #2e3125;
+    --color13: #f05a0f;
     --color14: #94998b;
     --color15: #242424;
 
 
-    
-}
+    --base04: color-mix(in srgb, var(--color04) 55%, black) !important;
+    --base02: color-mix(in srgb, var(--color00) 1%, white) !important;
+    --base02: color-mix(in srgb, var(--color00) 85%, black) !important;
+    --base04: color-mix(in srgb, var(--color00) 5%, black) !important;
+    --base00: color-mix(in srgb, var(--color00) 95%, white) !important;
+ }
