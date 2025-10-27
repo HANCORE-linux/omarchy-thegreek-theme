@@ -5,6 +5,7 @@ Built for operatives who prefer elegance, silence, and absolute focus.
 
 # Screenshots
 
+<img width="2560" height="1440" alt="screenshot-2025-10-27_22-14-22" src="https://github.com/user-attachments/assets/a972e529-b8f7-4b24-bc59-691c8c3cf3d1" />
 
 
 
@@ -28,6 +29,9 @@ For Vesktop users, you can install this theme by copying (usally from ~/Download
 ```bash
 cp system24-thegreek.css ~/.config/vesktop/themes/system24-thegreek.css
 ```
+## Superfile Support
+- created a Theme for superfile
+- copy thegreek.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'thegreek' ```
 
 ## Waybar-Theme
 For my Waybar-Theme (V3 config & shadow_style_css) simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
