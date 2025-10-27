@@ -18,7 +18,7 @@ return {
 
                 -- Accent colors (base08-base0F)
                 base08 = "#db0030", -- Variables, errors, red
-                base09 = "#ef597a", -- Integers, constants, orange
+                base09 = "#aa573c", -- Integers, constants, orange
                 base0A = "#51573b", -- Classes, types, yellow
                 base0B = "#383835", -- Strings, green
                 base0C = "#955ae7", -- Support, regex, cyan
