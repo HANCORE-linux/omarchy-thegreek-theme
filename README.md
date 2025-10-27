@@ -26,11 +26,11 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-thegreek-theme.gi
 ## Vesktop-Theme
 For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
 ```bash
-cp vencord.theme.inkypinky.css ~/.config/vesktop/themes/vencord.theme.inkypinky.css
+cp system24-thegreek.css ~/.config/vesktop/themes/system24-thegreek.css
 ```
 
 ## Waybar-Theme
-For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+For my Waybar-Theme (V3 config & shadow_style_css) simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
 
 ### License
 MIT
