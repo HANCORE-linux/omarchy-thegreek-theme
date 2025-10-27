@@ -1,4 +1,4 @@
-# InkyPinky
+# TheGreek
 TheGreek is a minimal espionage-inspired theme designed for precision and clarity.
 Its muted palette and geometric balance evoke calm control under pressure.
 Built for operatives who prefer elegance, silence, and absolute focus.
