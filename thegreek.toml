@@ -51,15 +51,15 @@ file_panel_item_selected_bg = "#242424"   # Base
 
 # ========= Sidebar Special Items =========
 sidebar_title = "#F05A0F"            # Sapphire
-sidebar_item_selected_fg = "#464943" # Sky
+sidebar_item_selected_fg = "#D0D0C8" # Sky
 sidebar_item_selected_bg = "#242424" # Base
 sidebar_divider = "#5E6349"          # Overlay2
 
 # ========= Modal Special Items =========
-modal_cancel_fg = "#4B0304" # Surface0
+modal_cancel_fg = "#D0D0C8" # Surface0
 modal_cancel_bg = "#2E311A" # Maroon
 
-modal_confirm_fg = "#4B0304" # Surface0
+modal_confirm_fg = "#D0D0C8" # Surface0
 modal_confirm_bg = "#464943" # Sky
 
 # ========= Help Menu =========
