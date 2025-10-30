@@ -22,7 +22,7 @@ return {
                 base0A = "#51573b", -- Classes, types, yellow
                 base0B = "#383835", -- Strings, green
                 base0C = "#955ae7", -- Support, regex, cyan
-                base0D = "#f05a0f", -- Functions, keywords, blue
+                base0D = "#DE6A41", -- Functions, keywords, blue
                 base0E = "#bf40bf", -- Keywords, storage, magenta
                 base0F = "#ffa348", -- Deprecated, brown/yellow
             },
