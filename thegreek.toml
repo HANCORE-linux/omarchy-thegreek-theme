@@ -41,7 +41,7 @@ error = "#4B0304"   # Red
 hint = "#F05A0F"    # Sapphire
 cancel = "#2E311A"  # Maroon
 # Gradient color can only have two color!
-gradient_color = ["#242424", "#F05A0F"] # [Blue, Mauve]
+gradient_color = ["#242424", "#DE6A41"] # [Blue, Mauve]
 
 # ========= File Panel Special Items =========
 file_panel_top_directory_icon = "#4D574E" # Green
@@ -50,7 +50,7 @@ file_panel_item_selected_fg = "#D0D0C8"   # Sky
 file_panel_item_selected_bg = "#242424"   # Base
 
 # ========= Sidebar Special Items =========
-sidebar_title = "#F05A0F"            # Sapphire
+sidebar_title = "#DE6A41"            # Sapphire
 sidebar_item_selected_fg = "#D0D0C8" # Sky
 sidebar_item_selected_bg = "#242424" # Base
 sidebar_divider = "#5E6349"          # Overlay2
