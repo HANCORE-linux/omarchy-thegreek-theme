@@ -82,8 +82,8 @@
         "terminal.ansi.yellow": "#51573b",
         "terminal.ansi.bright_yellow": "#51573b",
         "terminal.ansi.dim_yellow": null,
-        "terminal.ansi.blue": "#f05a0f",
-        "terminal.ansi.bright_blue": "#f05a0f",
+        "terminal.ansi.blue": "#DE6A41",
+        "terminal.ansi.bright_blue": "#DE6A41",
         "terminal.ansi.dim_blue": null,
         "terminal.ansi.magenta": "#43432b",
         "terminal.ansi.bright_magenta": "#43432b",
@@ -119,9 +119,9 @@
         "info": "#363a34",
         "info.background": "#d0d0c8",
         "info.border": "#363a34",
-        "modified": "#f05a0f",
+        "modified": "#DE6A41",
         "modified.background": "#d0d0c8",
-        "modified.border": "#f05a0f",
+        "modified.border": "#DE6A41",
         "predictive": "#494a42",
         "predictive.background": "#494a42",
         "predictive.border": "#d0d0c8",
@@ -146,7 +146,7 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#f05a0f",
+            "color": "#DE6A41",
             "font_style": null,
             "font_weight": null
           },
@@ -186,7 +186,7 @@
             "font_weight": 700
           },
           "function": {
-            "color": "#f05a0f",
+            "color": "#DE6A41",
             "font_style": null,
             "font_weight": null
           },
