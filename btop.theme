@@ -8,7 +8,7 @@ theme[main_fg]="#242424"
 theme[title]="#272a1f"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#f05a0f"
+theme[hi_fg]="#DE6A41"
 
 # Background color of selected item in processes box
 theme[selected_bg]="#494a42"
@@ -20,7 +20,7 @@ theme[selected_fg]="#d0d0c8"
 theme[inactive_fg]="#aaaaa3"
 
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
-theme[proc_misc]="#f05a0f"
+theme[proc_misc]="#DE6A41"
 
 # Box outline and divider line color
 theme[cpu_box]="#2e3125"
