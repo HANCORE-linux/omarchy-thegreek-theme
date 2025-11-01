@@ -10,6 +10,7 @@ Built for operatives who prefer elegance, silence, and absolute focus.
 <img width="2560" height="1440" alt="screenshot-2025-10-27_22-18-17" src="https://github.com/user-attachments/assets/207a3437-155e-49c9-96c4-e0820e195056" />
 
 
+<img width="2560" height="1440" alt="screenshot-2025-11-01_00-15-34" src="https://github.com/user-attachments/assets/2b5ce8b3-f645-43e5-8dd7-d4b5b3694d04" />
 
 
 
