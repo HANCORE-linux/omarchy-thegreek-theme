@@ -134,7 +134,7 @@ body {
     /* other normally white text */
     --text-2: #51573b;
     /* headings and important text */
-    --text-3: #43432b;
+    --text-3: #101010;
     /* normal text */
     --text-4: #51573b;
     /* icon buttons and channels */
@@ -150,7 +150,7 @@ body {
     /* spacing, secondary elements */
     --bg-4: #d0d0c8;
     /* main background color */
-    --hover: #a8a67b;
+    --hover: #F3F3E6;
     /* channels and buttons when hovered */
     --active: oklch(54% 0 0 / 0.2);
     /* channels and buttons when clicked or selected */
