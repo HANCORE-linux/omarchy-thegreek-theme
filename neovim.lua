@@ -23,7 +23,7 @@ return {
 				base0B = "#B95C31", -- Strings / functions
 				base0C = "#7f4eb2", -- Support / regex / muted purple
 				base0D = "#B95C31", -- Functions / keywords
-				base0E = "#c2784b", -- Highlights / deprecated
+				base0E = "#d2691e", -- Highlights / deprecated
 				base0F = "#2e4c3a", -- Dark green accent / extra highlight
 			},
 		},
