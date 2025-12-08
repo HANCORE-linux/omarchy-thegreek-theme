@@ -26,8 +26,8 @@ To install this theme, simply use the omarchy-theme-install command:
 ```bash
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-thegreek-theme.git
 ```
-## Vesktop-Theme
-For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
+## Vesktop-Theme (recommended!)
+For Vesktop users, you can install this theme by downloading it (usally from ~/Downloads) and copy the theme file to your Vesktop themes directory:
 ```bash
 cp system24-thegreek.css ~/.config/vesktop/themes/system24-thegreek.css
 ```
