@@ -39,7 +39,7 @@ cp system24-thegreek.css ~/.config/vesktop/themes/system24-thegreek.css
 For my Waybar-Theme (V3 config & shadow_style_css) simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
 
 ## VSCode-Theme
-Select Soft Grey Light in Extension
+Added VSCode-Theme from VSCode marketspace "Grey Light+ Pro" 
 
 ### License
 MIT
