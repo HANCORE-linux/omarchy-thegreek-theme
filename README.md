@@ -3,6 +3,9 @@ TheGreek is a minimal espionage-inspired theme designed for precision and clarit
 Its muted palette and geometric balance evoke calm control under pressure.
 Built for operatives who prefer elegance, silence, and absolute focus.
 
+# Inverveted Version Greek-Noir
+- Check out [here](https://github.com/HANCORE-linux/omarchy-greek-noir-theme)
+
 # Screenshots
 
 <img width="2560" height="1440" alt="screenshot-2025-10-27_22-14-22" src="https://github.com/user-attachments/assets/a972e529-b8f7-4b24-bc59-691c8c3cf3d1" />
