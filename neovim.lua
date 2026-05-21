@@ -29,6 +29,14 @@ return {
         magenta      = "#7c773f",
 
       },
+        on_highlights = function(hl, c)
+    -- Your existing lines
+    hl.CursorLine = { bg = "#ddded4" } 
+    hl.CursorLineNr = { fg = c.orange, bold = true }
+    hl["@markup.raw.markdown_inline"] = { bg = "NONE" }
+    hl["@markup.raw.block.markdown"] = { bg = "NONE" }
+	hl["@markup.quote"] = { bg = "NONE" }
+   end,
     },
     config = function(_, opts)
       require("aether").setup(opts)
