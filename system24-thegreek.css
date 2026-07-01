@@ -105,8 +105,8 @@ body {
 
     /* accent colors */
     --accent-1: #DE6A41; /* links and other accent text */
-    --accent-2: #e88b5f; /* small accent elements */
-    --accent-3: #363a34; /* accent buttons */
+    --accent-2: #DE6A41; /* small accent elements */
+    --accent-3: #6b1f2f; /* accent buttons */
     --accent-4: var(--purple-4); /* accent buttons when hovered */
     --accent-5: var(--purple-5); /* accent buttons when clicked */
     --accent-new: #4D574E; /* stuff that's normally red like mute/deafen buttons */

@@ -28,19 +28,19 @@ modal_fg = '#242424'
 cursor = '#242424'
 correct = '#2e3125'
 error = '#db0030'
-hint = '#363a34'
+hint = '#6b1f2f'
 cancel = '#db0030'
-gradient_color = ['#d0d0c8', "#494a42"]
+gradient_color = ['#d0d0c8', "#6b7360"]
 
 # ========= File Panel Special Items =========
 file_panel_top_directory_icon = '#d0d0c8'
-file_panel_top_path = '#494a42'
-file_panel_item_selected_fg = '#494a42'
+file_panel_top_path = '#6b7360'
+file_panel_item_selected_fg = '#6b7360'
 file_panel_item_selected_bg = '#d0d0c8'
 
 # ========= Sidebar Special Items =========
 sidebar_title = '#242424'
-sidebar_item_selected_fg = '#494a42'
+sidebar_item_selected_fg = '#6b7360'
 sidebar_item_selected_bg = '#d0d0c8'
 sidebar_divider = '#383835'
 

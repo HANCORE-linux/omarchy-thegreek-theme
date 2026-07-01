@@ -1,0 +1,22 @@
+{
+    "name": "theme-thegreek",
+    "displayName": "The Greek Theme",
+    "description": "The Greek color theme",
+    "publisher": "local",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Greek",
+                "uiTheme": "vs",
+                "path": "./themes/thegreek-color-theme.json"
+            }
+        ]
+    }
+}

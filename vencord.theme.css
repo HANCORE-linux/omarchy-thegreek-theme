@@ -1,30 +1,29 @@
-    /**
-    * @name Omarchy
-    * @author @bypass_
-    * @version 0.1.0
-    * @description Match Omarchy system theme.
-    * @source https://github.com/imbypass/base16-Discord
-    **/
-    @import url("https://imbypass.github.io/base16-discord/omarchy-discord.theme.css");
+/**
+* @name The Greek
+* @author @bypass_
+* @version 0.1.0
+* @description The Greek — harbor fix-set, cohesive greek palette
+* @source https://github.com/imbypass/base16-Discord
+**/
 
-    :root {
-        --color00: #d0d0c8;
-        --color01: #242424;
-        --color02: #383835;
-        --color03: #383835;
-        --color04: #242424;
-        --color05: #242424;
-        --color06: #242424;
-        --color07: #242424;
-        --color08: #db0030;
-        --color09: #51573b;
-        --color10: #242424;
-        --color11: #DE6A41;
-        --color12: #363a34;
-        --color13: #DE6A41;
-        --color14: #43432b;
-        --color15: #51573b;
-      --base00: var(--color00);
+:root {
+    --color00: #d0d0c8;
+    --color01: #d0d0c8;
+    --color02: #d0d0c8;
+    --color03: #6b7360;
+    --color04: #57574c;
+    --color05: #242424;
+    --color06: #51573b;
+    --color07: #DE6A41;
+    --color08: #a22824;
+    --color09: #943a17;
+    --color10: #DE6A41;
+    --color11: #943a17;
+    --color12: #51573b;
+    --color13: #7a4a1f;
+    --color14: #6e4a3a;
+    --color15: #242424;
+--base00: var(--color00);
     --base01: var(--color01);
     --base02: var(--color02);
     --base03: var(--color03);
@@ -96,7 +95,7 @@
     --button-danger-background-disabled: var(--base03) !important;
     --button-filled-brand-background: var(--base0B) !important;
     --button-filled-brand-background-hover: var(--base08) !important;
-    --button-filled-brand-text: var(--base00) !important;
+    --button-filled-brand-text: var(--base0F) !important;
     --button-filled-brand-text-hover: var(--base05) !important;
     --button-outline-positive-border: var(--base0B) !important;
     --button-outline-danger-background-hover: var(--base08) !important;
@@ -104,14 +103,14 @@
     --button-positive-background: var(--base0B) !important;
     --button-positive-background-disabled: var(--base03) !important;
     --button-positive-background-hover: var(--base03) !important;
-    --button-secondary-background: var(--base02) !important;
+    --button-secondary-background: color-mix(in srgb, var(--base04) 14%, var(--base00)) !important;
     --button-secondary-background-disabled: var(--base03) !important;
     --button-secondary-background-hover: var(--base03) !important;
-    --button-secondary-text: var(--color07) !important;
+    --button-secondary-text: var(--base05) !important;
     --card-primary-bg: var(--base02) !important;
     --card-background-default: var(--base02) !important;
     --channel-icon: var(--base0B) !important;
-    --channels-default: var(--base03) !important;
+    --channels-default: var(--base05) !important;
     --channel-text-area-placeholder: var(--base03) !important;
     --channeltextarea-background: var(--base01) !important;
     --chat-background-default: var(--base01) !important;
@@ -141,17 +140,17 @@
     --input-background: var(--base02) !important;
     --input-border: var(--base03) !important;
     --input-placeholder-text: var(--base03) !important;
-    --interactive-active: var(--color07) !important;
-    --interactive-hover: var(--color07) !important;
+    --interactive-active: var(--base0F) !important;
+    --interactive-hover: var(--base0F) !important;
     --interactive-muted: var(--base03) !important;
-    --interactive-normal: var(--color07) !important;
+    --interactive-normal: var(--base05) !important;
     --mention-background: color-mix(in srgb, var(--base0B) 30%, var(--base01)) !important;
     --mention-foreground: var(--base05) !important;
     --menu-item-danger-active-bg: var(--base08) !important;
     --menu-item-danger-hover-bg: var(--base08) !important;
     --menu-item-default-hover-bg: var(--base03) !important;
-    --message-reacted-background: var(--base02) !important;
-    --message-reacted-text: var(--base05) !important;
+    --message-reacted-background: color-mix(in srgb, var(--base0D) 20%, var(--base00)) !important;
+    --message-reacted-text: var(--base0F) !important;
     --modal-background: var(--base01) !important;
     --modal-footer-background: var(--base00) !important;
     --notice-background-positive: var(--base0B) !important;
@@ -179,9 +178,9 @@
     --red: var(--base08) !important;
     --red-new-22: var(--base08) !important;
     --redesign-input-control-selected: var(--base0B) !important;
-    --scrollbar-auto-thumb: var(--base00) !important;
+    --scrollbar-auto-thumb: var(--base07) !important;
     --scrollbar-auto-track: transparent;
-    --scrollbar-thin-thumb: var(--base00) !important;
+    --scrollbar-thin-thumb: var(--base07) !important;
     --scrollbar-thin-track: transparent;
     --search-popout-option-fade: none;
     --search-popout-option-non-text-color: var(--base07) !important;
@@ -201,7 +200,7 @@
     --text-feedback-negative: var(--base08) !important;
     --text-feedback-warning: var(--base09) !important;
     --text-feedback-success: var(--base0B) !important;
-    --text-link: var(--base0B) !important;
+    --text-link: var(--base0D) !important;
     --text-muted: var(--base03) !important;
     --text-negative: var(--base08) !important;
     --text-normal: var(--base05) !important;
@@ -248,7 +247,7 @@ div[class*="numberBadge"],
 span[class*="numberBadge"],
 div[class*="textBadge"],
 span[class*="textBadge"] {
-    background-color: var(--base0B) !important;
+    background-color: var(--base08) !important;
     color: var(--base00) !important;
 }
 
@@ -457,7 +456,7 @@ div.folderIconWrapper__48112 {
 
 /*--- Number Badge Recolor ---*/
 div[class*="numberBadge"] {
-    color: var(--base05) !important;
+    color: var(--base00) !important;
 }
 
 /*--- Button Text Recolor ---*/
@@ -590,7 +589,8 @@ div[class*="numberBadge"] {
     }
 
     .selectedBackground_e681d1 {
-        background-color: var(--base02) !important;
+        background-color: color-mix(in srgb, var(--base0D) 20%, var(--base00)) !important;
+        color: var(--base0F) !important;
     }
 
     /*--- Status Icon Recolor (DO NOT DISTURB) ---*/
@@ -635,7 +635,7 @@ div[class*="numberBadge"] {
 .theme-light {
     --base01: color-mix(in srgb, var(--color00) 95%, black) !important;
     --base02: color-mix(in srgb, var(--color00) 85%, black) !important;
-    --base03: color-mix(in srgb, var(--color00) 80%, black) !important;
+    --base03: color-mix(in srgb, var(--color00) 50%, black) !important;
     --base04: color-mix(in srgb, var(--color00) 70%, black) !important;
     --base06: color-mix(in srgb, var(--color05) 95%, white) !important;
     --base07: color-mix(in srgb, var(--color05) 90%, white) !important;
@@ -652,4 +652,34 @@ div[class*="numberBadge"] {
   transform: scaleX(0.5);
   transform-origin: right;
   pointer-events: none;
+}
+/* me-reacted reaction button — robust (class-substring, version-independent) */
+[class*="reactionMe"] {
+    background-color: color-mix(in srgb, var(--base0D) 22%, var(--base00)) !important;
+    border: 1px solid var(--base0D) !important;
+}
+[class*="reactionMe"] * {
+    color: var(--base0F) !important;
+}
+
+/*--- thegreek: readable text on the orange brand fill ---*/
+.theme-light, .theme-dark, .theme-darker, .theme-midnight, .visual-refresh {
+    --button-filled-brand-text: var(--base00) !important;
+    --button-filled-brand-text-hover: var(--base00) !important;
+}
+
+/*--- thegreek: channel colour + thread sublines ---*/
+.theme-light, .theme-dark, .theme-darker, .theme-midnight, .visual-refresh {
+    --channel-icon: #2e3125 !important;          /* channels -> color02 (olive) */
+}
+a[data-list-item-id^="channels___"] svg,
+a[data-list-item-id^="channels___"] svg path {
+    fill: #2e3125 !important;                     /* channel # icons -> color02 */
+}
+/* thread / reply spine sublines -> color04 (accent orange) */
+svg[class*="spine"],
+svg[class*="spine"] path,
+li[class*="container"] svg[class*="spine"] path {
+    fill: #DE6A41 !important;
+    color: #DE6A41 !important;
 }

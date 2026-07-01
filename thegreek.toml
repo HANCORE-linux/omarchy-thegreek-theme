@@ -14,7 +14,7 @@ sidebar_border = "#242424"    # Base
 footer_border = "#3E4135"     # Overlay0
 
 # ========= Border Active =========
-file_panel_border_active = "#363a34" # Lavendar
+file_panel_border_active = "#6b1f2f" # Lavendar
 sidebar_border_active = "#4B0304"    # Red
 footer_border_active = "#4D574E"     # Green
 modal_border_active = "#5E6349"      # Overlay2
