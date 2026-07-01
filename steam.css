@@ -21,10 +21,10 @@ Last Modified: 2025-11-11
     --adw-success-fg-rgb: 208, 208, 200 !important;
     --adw-success-rgb: 46, 49, 37 !important;
 
-    --adw-warning-bg-rgb: 162, 168, 124 !important;
+    --adw-warning-bg-rgb: 81, 87, 59 !important;
     --adw-warning-fg-rgb: 208, 208, 200 !important;
     --adw-warning-fg-a: 0.8 !important;
-    --adw-warning-rgb: 162, 168, 124 !important;
+    --adw-warning-rgb: 81, 87, 59 !important;
 
     --adw-error-bg-rgb: 219, 0, 48 !important;
     --adw-error-fg-rgb: 208, 208, 200 !important;
@@ -41,7 +41,7 @@ Last Modified: 2025-11-11
     /* Header bar, search bar, tab bar */
     --adw-headerbar-bg-rgb: 208, 208, 200 !important;
     --adw-headerbar-fg-rgb: 36, 36, 36 !important;
-    --adw-headerbar-border-rgb: 73, 74, 66 !important;
+    --adw-headerbar-border-rgb: 107, 115, 96 !important;
     --adw-headerbar-backdrop-rgb: 208, 208, 200 !important;
     --adw-headerbar-shade-rgb: 0, 0, 0 !important;
     --adw-headerbar-shade-a: 0.36 !important;
@@ -51,13 +51,13 @@ Last Modified: 2025-11-11
     /* Split pane views */
     --adw-sidebar-bg-rgb: 208, 208, 200 !important;
     --adw-sidebar-fg-rgb: 36, 36, 36 !important;
-    --adw-sidebar-backdrop-rgb: 73, 74, 66 !important;
+    --adw-sidebar-backdrop-rgb: 107, 115, 96 !important;
     --adw-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-sidebar-shade-a: 0.36 !important;
 
     --adw-secondary-sidebar-bg-rgb: 208, 208, 200 !important;
     --adw-secondary-sidebar-fg-rgb: 36, 36, 36 !important;
-    --adw-secondary-sidebar-backdrop-rgb: 73, 74, 66 !important;
+    --adw-secondary-sidebar-backdrop-rgb: 107, 115, 96 !important;
     --adw-secondary-sidebar-shade-rgb: 0, 0, 0 !important;
     --adw-secondary-sidebar-shade-a: 0.36 !important;
 
