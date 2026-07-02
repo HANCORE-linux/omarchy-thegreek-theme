@@ -15,13 +15,9 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-thegreek-theme.gi
 ```
 
 # Screenshots
+<img width="2560" height="1440" alt="screenshot-2026-07-02_18-03-27" src="https://github.com/user-attachments/assets/9819e9c3-5d3d-47a4-b38f-b2a957e1489f" />
+<img width="2560" height="1440" alt="screenshot-2026-07-02_18-07-10" src="https://github.com/user-attachments/assets/d116c95c-adba-4e1a-894d-420bb37e4f55" />
 
-<img width="2560" height="1440" alt="screenshot-2025-10-27_22-14-22" src="https://github.com/user-attachments/assets/a972e529-b8f7-4b24-bc59-691c8c3cf3d1" />
-
-<img width="2560" height="1440" alt="screenshot-2025-10-27_22-18-17" src="https://github.com/user-attachments/assets/207a3437-155e-49c9-96c4-e0820e195056" />
-
-
-<img width="2560" height="1440" alt="screenshot-2025-11-01_00-15-34" src="https://github.com/user-attachments/assets/2b5ce8b3-f645-43e5-8dd7-d4b5b3694d04" />
 
 
 #### Waybar
