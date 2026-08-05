@@ -1,0 +1,148 @@
+# Omarchy Quattro surfaces for The Greek.
+# Warm stone panels, sharp geometry, a muted olive frame, and an olive selection
+# with orange text carry the restrained espionage character into the shell.
+
+[bar]
+background = "#D0D0C8"
+background-alpha = 1.0
+text = "#1F2929"
+active = "#DE6A41"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "rgba(151515ee) rgba(5e6650ee) 45deg"
+active-border-foreground = "#242424"
+
+[controls]
+normal-color = "#6B7360"
+normal-fill-alpha = 0.10
+normal-border-width = 1
+normal-border-alpha = 0.40
+
+hover-cursor-color = "#242424"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.55
+
+focus-color = "#DE6A41"
+focus-fill-alpha = 0.16
+focus-border-width = 1
+focus-border-alpha = 0.86
+
+selected-color = "#51573B"
+selected-fill-alpha = 0.18
+selected-border-width = 1
+selected-border-alpha = 0.50
+
+pressed-color = "#6B1F2F"
+pressed-fill-alpha = 0.22
+selection-color = "#43432B"
+selection-fill-alpha = 0.32
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 4
+control-padding-y = 5
+panel-padding = 10
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 18
+
+[popups]
+background = "#D0D0C8"
+background-alpha = 1.0
+text = "#242424"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#D0D0C8"
+background-alpha = 0.98
+text = "#242424"
+border = "#43432B"
+border-alpha = 1.0
+border-width = 1
+
+[notifications]
+background = "#D0D0C8"
+background-alpha = 1.0
+text = "#242424"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+countdown = "#DE6A41"
+
+[launcher]
+background = "#D0D0C8"
+background-alpha = 0.98
+text = "#47472B"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#242424"
+scrim-alpha = 0.0
+selected-background = "#2E3125"
+selected-background-alpha = 1.0
+selected-text = "#DE6A41"
+selected-border = "#43432B"
+selected-border-alpha = 0.0
+selected-border-width = 0
+
+[menu]
+background = "#D0D0C8"
+background-alpha = 0.98
+text = "#47472B"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#242424"
+scrim-alpha = 0.0
+selected-background = "#2E3125"
+selected-background-alpha = 1.0
+selected-text = "#DE6A41"
+selected-border = "#43432B"
+selected-border-alpha = 0.0
+selected-border-width = 0
+
+[polkit]
+background = "#D0D0C8"
+background-alpha = 1.0
+text = "#242424"
+text-error = "#DB0030"
+border = "hyprland.active-border"
+border-error = "#DB0030"
+border-alpha = 1.0
+border-width = 2
+scrim = "#242424"
+scrim-alpha = 0.42
+accent = "#DE6A41"
+
+[lock]
+background = "#D0D0C8"
+background-alpha = 1.0
+text = "#242424"
+placeholder = "#242424B3"
+text-error = "#DB0030"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#DB0030"
+border-alpha = 1.0
+border-width = 2
+selection = "#6B1F2F"
+selection-alpha = 0.36
+
+[image-picker]
+scrim = "#242424"
+scrim-alpha = 0.42
+text = "#242424"
+selected-border = "#DE6A41"
+selected-border-alpha = 1.0
+unselected-border = "#43432B"
+unselected-border-alpha = 0.82
